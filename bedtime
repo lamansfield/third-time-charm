@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+    <title>My projects</title>
+</head>
+<body>   
+    <h1>UW Bothell projects</h1>
+    <nav>
+        <img src = "http://www.uwb.edu/getattachment/news/bigW-110px.jpg" alt="news"            /><a href="http://www.uwb.edu">UW Bothell</a>
+                <br/>
+                <br/>
+        <img src="http://www.uwb.edu/getattachment/news/best-bang-110px.jpg"            alt="money"/><a href="http://www.uwb.edu/news">Learn more about the university.</a>
+    </nav>
+    <article>
+        <h2>A captivating article</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras justo nisi, dapibus nec nisl vitae, vulputate vestibulum magna. Quisque laoreet pulvinar neque gravida malesuada. Aliquam facilisis leo nec diam accumsan aliquam. Donec convallis molestie magna, sit amet mattis odio mattis ut. Phasellus mattis ante eget orci dictum laoreet. Nunc in sollicitudin magna. Integer sed tristique nisi.<p>
+        <p>Integer eget ipsum quis sem rhoncus luctus non ut diam. Aliquam porttitor aliquet libero, eu imperdiet augue vehicula vel. Praesent imperdiet semper sem, et feugiat turpis dapibus non. In porta et tellus accumsan finibus. Nunc maximus velit non euismod consequat. Cras non felis in leo lacinia vestibulum. Donec egestas sollicitudin volutpat. Morbi tempus et leo nec luctus. Pellentesque arcu libero, blandit sit amet sagittis eget, accumsan ac est. Donec malesuada congue neque, in tincidunt risus. Integer scelerisque at tellus hendrerit posuere.</p>
+        <p>Vivamus quis velit ornare, aliquam leo gravida, venenatis arcu. Aenean venenatis ex ut ex imperdiet vulputate. Morbi at efficitur eros. Duis et dignissim mauris, quis molestie quam. Maecenas placerat ultrices egestas. Quisque vulputate id lectus quis ultrices. Morbi sit amet pharetra lacus, at mattis ex. Phasellus auctor suscipit vehicula. Aliquam quam diam, fermentum eget nisl sit amet, tincidunt sagittis felis. Phasellus et erat leo.</p>
